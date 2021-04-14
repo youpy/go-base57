@@ -1,6 +1,6 @@
 # go-base57
 
-Base57 encoder/decoder implementation for using with `github.com/lithammer/shortuuid`. It supports lexicographic ordering.
+Base57 encoder/decoder implementation for using with `github.com/lithammer/shortuuid`. It supports lexicographic ordering and is compatible with the ruby/python implementations.
 
 # Usage
 
